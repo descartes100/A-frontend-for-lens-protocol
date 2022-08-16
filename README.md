@@ -1,26 +1,20 @@
+This is a project inspired by a [tutorial](https://ankr.hashnode.dev/getting-started-with-lens-protocol-as-a-frontend-developer). Check it if you like.
+
 # 🚀 next-chakra-rainbowkit-wagmi-starter
 
 This is a [Next.js](https://nextjs.org) starter kit bootstrapped with [Chakra UI](https://chakra-ui.com/), [Rainbowkit](https://rainbowkit.com) and [wagmi](https://wagmi.sh).
 
 ## 📚 Getting Started
 
-1. Clone the repository
+1.  Install dependencies
 
-```bash
-git clone https://github.com/dhaiwat10/next-chakra-rainbowkit-wagmi-starter.git
 ```
-
-2. Install dependencies
-
-```bash
-cd next-chakra-rainbowkit-wagmi-starter
-
 yarn
 ```
 
-3. Run the app
+2. Run the app
 
-```bash
+```
 yarn dev
 ```
 
